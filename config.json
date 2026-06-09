@@ -1,0 +1,10 @@
+{
+    "default_port": 8080,
+    "default_tunnel": "1",
+    "auto_open_browser": false,
+    "tunnel": {
+        "cloudflare": true,
+        "ngrok": true,
+        "serveo": true
+    }
+}
